@@ -1,16 +1,4 @@
-# animated_builder_transform_animation
+## Rotatin a Container around it's Y-Axis using Animated Builder and Transform Widgets.
 
-A new Flutter project.
+https://user-images.githubusercontent.com/37943402/221641709-d5ed2347-3b42-41a1-8e3b-cb76c7715dee.mp4
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
